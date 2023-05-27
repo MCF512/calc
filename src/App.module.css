@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  padding: 0 15px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.final,
+.result {
+  font-size: 30px;
+}
+
+.final {
+  color: red;
+}
+
+.result {
+  color: green;
+}
+
+.btn {
+  font-size: 30px;
+  margin: 2px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  border: none;
+}
